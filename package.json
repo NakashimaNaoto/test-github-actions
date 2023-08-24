@@ -1,0 +1,14 @@
+{
+  "name": "test-github-actions",
+  "version": "1.0.0",
+  "description": "test github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
